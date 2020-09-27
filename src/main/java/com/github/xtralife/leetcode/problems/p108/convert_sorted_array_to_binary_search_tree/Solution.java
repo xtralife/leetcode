@@ -1,7 +1,5 @@
 package com.github.xtralife.leetcode.problems.p108.convert_sorted_array_to_binary_search_tree;
 
-import sun.reflect.generics.tree.Tree;
-
 /*
 nums: [-10,-3,0,5,9]
 
