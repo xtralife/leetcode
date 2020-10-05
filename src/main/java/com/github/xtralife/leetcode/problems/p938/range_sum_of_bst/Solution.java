@@ -1,11 +1,5 @@
 package com.github.xtralife.leetcode.problems.p938.range_sum_of_bst;
 
-import sun.reflect.generics.tree.Tree;
-
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.Stack;
-
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
