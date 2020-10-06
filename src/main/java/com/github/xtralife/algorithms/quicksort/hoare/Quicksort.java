@@ -1,4 +1,4 @@
-package com.github.xtralilfe.algorithms.quicksort.hoare;
+package com.github.xtralife.algorithms.quicksort.hoare;
 
 public class Quicksort {
     public static int[] quicksort(int[] nums) {

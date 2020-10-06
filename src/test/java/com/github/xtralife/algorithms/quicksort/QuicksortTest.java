@@ -1,6 +1,6 @@
-package com.github.xtralilfe.algorithms.quicksort;
+package com.github.xtralife.algorithms.quicksort;
 
-import com.github.xtralilfe.algorithms.quicksort.hoare.Quicksort;
+import com.github.xtralife.algorithms.quicksort.hoare.Quicksort;
 import org.testng.annotations.Test;
 
 public class QuicksortTest {

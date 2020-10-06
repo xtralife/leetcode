@@ -1,4 +1,4 @@
-package com.github.xtralilfe.algorithms.quicksort.lomuto;
+package com.github.xtralife.algorithms.quicksort.lomuto;
 
 public class Quicksort {
     public static int[] quicksort(int[] nums) {
