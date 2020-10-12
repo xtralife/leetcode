@@ -1,4 +1,4 @@
-package com.github.xtralife.leetcode.problems.p23.merge_k_sorted_list;
+package com.github.xtralife.leetcode.problems.p23.merge_k_sorted_list.priority_queue;
 
 public class ListNode {
     int val;

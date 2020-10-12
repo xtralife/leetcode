@@ -1,15 +1,8 @@
-package com.github.xtralife.leetcode.problems.p23.merge_k_sorted_list;
+package com.github.xtralife.leetcode.problems.p23.merge_k_sorted_list.priority_queue;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
-/*
-[1,4,5] [1,3,4] [2,6]
-q: 4, 3, 6
-d: 0, 1, 1, 2
-l: 1
-n: 2
- */
 public class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
         PriorityQueue<ListNode> queue = new PriorityQueue<>(Comparator.comparingInt(node -> node.val));
