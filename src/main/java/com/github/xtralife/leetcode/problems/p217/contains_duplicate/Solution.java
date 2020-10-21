@@ -1,4 +1,4 @@
-package com.github.xtralife.leetcode.problems.p217.contains_duplicates;
+package com.github.xtralife.leetcode.problems.p217.contains_duplicate;
 
 import java.util.HashSet;
 import java.util.Set;
