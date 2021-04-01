@@ -1,4 +1,4 @@
-package com.github.xtralife.leetcode.problems.p234.palindrome_linked_list;
+package com.github.xtralife.leetcode.problems.p234.palindrome_linked_list.stack;
 
 public class Solution {
     public boolean isPalindrome(ListNode head) {
@@ -16,6 +16,7 @@ public class Solution {
             start = start.next;
             end = end.next;
         }
+        middle.next = reverseList(rest);
         return true;
     }
 
